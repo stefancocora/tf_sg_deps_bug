@@ -1,0 +1,8 @@
+.vendor/
+.bundle/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+tf.sh
+plan.tf
